@@ -17,3 +17,9 @@ A Java console-based application developed for the Software Engineering Tools co
 ```bash
 javac -encoding UTF-8 models/*.java services/*.java main/*.java
 java main.Main
+
+## Team Members
+- Dania Maher Issa Hamdallah
+- Rawan Abd Al-Qader Lutfi Odeh
+- Layan Abdelnaser Shehata Mohamed
+- Nada Basheer Jum'ah Abu Hassan
